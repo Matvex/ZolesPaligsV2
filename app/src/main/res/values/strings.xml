@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zoles paligs v2</string>
+    <string name="tab_text_1">Spēles</string>
+    <string name="tab_text_2">Noteik.</string>
+    <string name="tab_text_3">Punkti</string>
+    <string name="tab_text_4">Grafs</string>
+    <string name="tab_text_5">Stati</string>
+</resources>
